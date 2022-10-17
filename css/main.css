@@ -28,9 +28,9 @@ body > p {
 }
 
 .card-image {
-  height: 21rem;
+  height: 20rem;
   border-radius: 0.75rem;
-  max-width: 20rem;
+  max-width: 18rem;
 }
 
 .text-box {

@@ -23,14 +23,14 @@ body > p {
   border-radius: 20px;
   max-width: 21rem;
   text-align: center;
-  padding-top: 0.5rem;
+  padding: 0.5rem;
   margin: 1.25rem;
 }
 
 .card-image {
   height: 20rem;
   border-radius: 0.75rem;
-  max-width: 18rem;
+  width: 100%;
 }
 
 .text-box {

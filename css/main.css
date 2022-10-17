@@ -7,7 +7,7 @@ body {
 }
 
 body > p {
-  font-size: 15px;
+  font-size: 0.9375rem;
 }
 
 .main-div {
@@ -24,12 +24,12 @@ body > p {
   max-width: 21rem;
   text-align: center;
   padding-top: 0.5rem;
-  margin: 20px;
+  margin: 1.25rem;
 }
 
 .card-image {
   height: 21rem;
-  border-radius: 12px;
+  border-radius: 0.75rem;
   max-width: 20rem;
 }
 
@@ -58,7 +58,7 @@ body > p {
   }
 
   .text-box {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 0.625rem;
+    padding-right: 0.625rem;
   }
 }
